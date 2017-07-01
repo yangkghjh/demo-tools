@@ -1,0 +1,13 @@
+coverage
+dist
+lib
+logs
+node_modules
+test_output
+integration/test_logs
+*~
+.DS_Store
+.idea/
+integration/test_logs
+package-lock.json
+bower_components

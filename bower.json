@@ -1,0 +1,20 @@
+{
+  "name": "demo-tools",
+  "description": "Tools to build demo web page.",
+  "main": "index.js",
+  "authors": [
+    "Yang Bin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

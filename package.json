@@ -1,0 +1,12 @@
+{
+  "name": "demo-tools",
+  "version": "0.0.1",
+  "description": "Tools to build demo web page.",
+  "main": "index.js",
+  "author": "Yang Bin",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1"
+  }
+}
